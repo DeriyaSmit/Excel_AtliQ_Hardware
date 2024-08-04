@@ -1,4 +1,4 @@
-# Excel_AtliQ_Hardware
+# Excel_AtliQ_Hardware_Report
 
 ● Utilized Excel to analyze the data and generated a report based on the findings.
 
